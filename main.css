@@ -1,0 +1,28 @@
+.container{
+    max-width: 800px;
+}
+.btn{
+    background: navy;
+    color: white;
+    outline: 0;
+    box-shadow: none;
+    padding: 8px 16px;
+    font-size: 16px;
+}
+.btn:focus,
+.btn:hover{
+    outline: 0;
+    background: midnightblue;
+    color: white;
+}
+.username{
+    font-weight: bold;
+}
+.time{
+    font-size: 0.7 em;
+    color: #999;
+}
+.update-mssg{
+    text-align: center;
+    margin: 20px auto;
+}
